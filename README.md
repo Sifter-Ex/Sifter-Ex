@@ -2,7 +2,10 @@
 <img align="left" src="https://www.codefactor.io/repository/github/s1l3nt78/sifter/badge" alt="CodeFactor" />
 <br/>
 <img align="left" src="https://img.shields.io/badge/-The_Dead_Bunny_Collective-green"></p>
-<br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
 <p align="center">
 	<img align="left" src="https://raw.githubusercontent.com/s1l3nt78/sifter/master/docs/sifter.png">
   <img align="right" src="https://raw.githubusercontent.com/s1l3nt78/s1l3nt78.github.io/master/.vs/log.png">
@@ -11,8 +14,6 @@
 	<img align="center" src="https://img.shields.io/badge/@Extention:-g-green"><br />
 	<img align="center" src="https://img.shields.io/badge/Version-Alpha-red">
 </p>-->
-<br />
-<br />
 
 # Sifter.Extention Program
 
