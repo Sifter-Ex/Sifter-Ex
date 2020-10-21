@@ -30,6 +30,8 @@ perform OpSec tasks and finally reporting of the entire Penetration Test, all fr
   <details>
    <summary><strong><em># Released Extentions</em></strong></summary>
   - G = Provides Sifter with a graphic overlay build on <a href="https://github.com/GitSquared/edex-ui">eDEX-UI</a> using NodeJS
+	<br />
+  - F = Provides the DanderFuzz Framework - aimed at Windows Exploitation - into Sifter
   </details>
   <br />
   <details>
