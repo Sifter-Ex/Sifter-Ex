@@ -23,12 +23,13 @@ perform OpSec tasks and finally reporting of the entire Penetration Test, all fr
 
  
   <details>
-   <summary><strong># Released Extentions</strong></summary>
-  <em>- G = Provides Sifter with a graphic overlay build on <a href="https://github.com/GitSquared/edex-ui">eDEX-UI</a> using NodeJS
-  </em></details>
+   <summary><strong><em># Released Extentions</em></strong></summary>
+  - G = Provides Sifter with a graphic overlay build on <a href="https://github.com/GitSquared/edex-ui">eDEX-UI</a> using NodeJS
+  </details>
   <br />
   <details>
-  <summary><strong># Extentions in Development</strong></summary>
-  <em> - R = Will provide Sifter with more Red-Team orientated capabilities.
+  <summary><strong><em># Extentions in Development</em></strong></summary>
+  - R = Will provide Sifter with more Red-Team orientated capabilities.
+	<br />
   - N = Will allow integration with Nessus Vulnerability Scanner & automatic reporting.
-  </em></details>
+  </details>
