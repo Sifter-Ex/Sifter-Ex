@@ -29,11 +29,14 @@ perform OpSec tasks and finally reporting of the entire Penetration Test, all fr
  
   <details>
    <summary><strong><em># Released Extentions</em></strong></summary>
-  - G = Provides Sifter with a graphic overlay build on <a href="https://github.com/GitSquared/edex-ui">eDEX-UI</a> using NodeJS
+  - <a href="https://github.com/Sifter-Ex/gPlug">G</a> = Provides Sifter with a graphic overlay build on <a href="https://github.com/GitSquared/edex-ui">eDEX-UI</a> using NodeJS
 	<br />
-  - F = Provides the DanderFuzz Framework - aimed at Windows Exploitation - into Sifter
+  - <a href="https://github.com/Sifter-Ex/fPlug">F</a> = Provides the DanderFuzz Framework - aimed at Windows Exploitation - into Sifter
   </details>
   <br />
+  - <a href="https://github.com/Sifter-Ex/cPlug">C</a> = Provides scripts to run CobaltStrike from within Sifter and automatically start teamserver hosted remotely
+  <br />
+  - <a href="https://github.com/Sifter-Ex/mPlug">M</a> = Provides Sifter tools for malware analysis
   <details>
   <summary><strong><em># Extentions in Development</em></strong></summary>
   - R = Will provide Sifter with more Red-Team orientated capabilities.
