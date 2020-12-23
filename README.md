@@ -19,7 +19,6 @@
 
 This is the offcial Extention Repository for <a href="https://github.com/s1l3nt78/sifter">Sifter</a>,<br />
 within this repo you can find various extentions to give Sifter a more customized feel.<br /> 
-Using the <a href="https://github.com/Sifter-Ex/g">G</a> extention will give you a graphic overlay.<br />
 <br /><br />
 Other extentions will extend the more exploitive side of Sifter, give more offensive ability for Red-Team engagements.<br />
 This is useful as you will be able to go from Information Gathering, to Phishing, to Exploitation/Post-Exploitation and then<br />
