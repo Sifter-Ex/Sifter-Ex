@@ -1,9 +1,8 @@
 <p><img align="left" src="https://img.shields.io/badge/Author-s1l3nt78-blueviolet"><img align="right" src="https://raw.githubusercontent.com/s1l3nt78/s1l3nt78.github.io/master/.vs/log.png"><br />
 <img align="left" src="https://www.codefactor.io/repository/github/s1l3nt78/sifter/badge" alt="CodeFactor" />
 <br />
-<img align="left" src="https://img.shields.io/badge/-The_Dead_Bunny_Collective-green"></p><br/>
+<img align="left" src="https://img.shields.io/badge/-The_Dead_Bunny_Collective-green"></p><br/><br /><br />
 <img align="left" src="https://raw.githubusercontent.com/s1l3nt78/sifter/master/docs/sifter.png">
-<br />
 <img align="right" src="https://camo.githubusercontent.com/3f488744235bd0b4205f66b050e8f24c08f0e3eb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73316c336e7437382673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="s1l3nt78's github stats" style="max-width:90%;">
 <br /><br />
 <br /><br />
